@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpeak" alt="devpeak" /></a> </p>
 
-- 🔭 I’m currently working on **UBUNTU**
+- 🔭 I’m currently working on **DATA SCIENCE, ML, AWS**
 
-- 🌱 I’m currently learning **CLOUD , FUSION 360 , UBUNUT**
+- 🌱 I’m currently learning **CLOUD, UBUNTU**
 
 - 👯 I’m looking to collaborate on **AWS**
 
-- 🤝 I’m looking for help with **FUSION 360**
+- 🤝 I’m looking for help with **AWS and ML**
 
 - 📫 How to reach me **malaythakur13@gmail.com**
 
