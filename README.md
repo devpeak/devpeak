@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpeak" alt="devpeak" /></a> </p>
 
-- 🔭 I’m currently working on **SELF-DRIVING-CAR**
+- 🔭 I’m currently working on **CLOUD**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and AWS**
 
 - 👯 I’m looking to collaborate on **Localization in Autonomous vehicles**
 
-- 🤝 I’m looking for help with **NLP**
+- 🤝 I’m looking for help with **DSA**
 
 - 📫 How to reach me **malaythakur13@gmail.com**
 
