@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm MALAY THAKUR</h1>
-<h3 align="center">I’m interested in Cloud computing , AI-ML</h3>
+<h3 align="center">I’m interested in Cloud Architecture , Docker and Kubernetes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpeak&label=Profile%20views&color=0e75b6&style=flat" alt="devpeak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpeak" alt="devpeak" /></a> </p>
 
-- 🔭 I’m currently working on **CLOUD**
+- 🔭 I’m currently working on **S3, EC2, IAM**
 
 - 🌱 I’m currently learning **Data Science and AWS**
 
-- 👯 I’m looking to collaborate on **Localization in Autonomous vehicles**
+- 👯 I’m looking to collaborate on **Data Analysis Project**
 
 - 🤝 I’m looking for help with **DSA**
 
